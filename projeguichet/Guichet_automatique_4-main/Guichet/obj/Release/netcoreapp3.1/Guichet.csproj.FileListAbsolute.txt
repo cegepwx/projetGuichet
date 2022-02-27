@@ -1,0 +1,14 @@
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\obj\Release\netcoreapp3.1\Guichet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\obj\Release\netcoreapp3.1\Guichet.AssemblyInfoInputs.cache
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\obj\Release\netcoreapp3.1\Guichet.AssemblyInfo.cs
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\obj\Release\netcoreapp3.1\Guichet.csproj.CoreCompileInputs.cache
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\bin\Release\netcoreapp3.1\Guichet.exe
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\bin\Release\netcoreapp3.1\Guichet.deps.json
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\bin\Release\netcoreapp3.1\Guichet.runtimeconfig.json
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\bin\Release\netcoreapp3.1\Guichet.runtimeconfig.dev.json
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\bin\Release\netcoreapp3.1\Guichet.dll
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\bin\Release\netcoreapp3.1\Guichet.pdb
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\obj\Release\netcoreapp3.1\Guichet.dll
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\obj\Release\netcoreapp3.1\Guichet.pdb
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\obj\Release\netcoreapp3.1\Guichet.genruntimeconfig.cache
+C:\Users\wx527\OneDrive\Bureau\monDossier\métier\backend\projeguichet\Guichet_automatique_4-main\Guichet\obj\Release\netcoreapp3.1\Guichet.csproj.AssemblyReference.cache
